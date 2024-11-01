@@ -1,0 +1,35 @@
+body {
+  background-color: #f0c8c7;
+  display: grid;
+  place-items: center;
+  margin: 10%;
+}
+
+.main {
+  width: 70%;
+  height: 80vh;
+  background-color: white;
+  border-radius: 13px;
+}
+
+.mainContainer {
+  display: grid;
+  place-items: center;
+}
+
+input {
+  border: solid 1px grey;
+  background-color: rgb(246, 246, 246);
+  border-radius: 20px;
+  padding: 2px 15px;
+  margin-bottom: 25px;
+}
+
+button {
+  background-color: #edacab;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  padding: 3px 15px;
+  border: none;
+  display: inline;
+}
